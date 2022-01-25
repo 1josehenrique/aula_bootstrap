@@ -1,0 +1,79 @@
+.logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 4cm;
+}
+
+.navbar-nav {
+    margin-left: 2cm;
+}
+
+.nav-link {
+    margin-left: 4cm;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.casa {
+    background-color: white;
+}
+
+.quem-somos{
+    padding-top: 15px;
+    background-color: black;
+    color: white;
+}
+
+.photo{
+    border-radius: 30px;
+}
+
+.paragrafo_1{
+    text-align: justify;
+    padding: 5px 20px;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.dio {
+    margin-top: 3.5cm;
+}
+
+.inter {
+    margin-top: 2cm;
+}
+
+.paraserv1 {
+    color: white;
+    padding-top: 15px;
+    text-align: justify;
+}
+
+.paraserv2 {
+    color: white;
+    padding-top: 15px;
+    text-align: justify;
+}
+
+#serviços {
+    background-color: black;
+    color: white;
+}
+
+.img01 {
+    border-radius: 50%;
+}
+
+.img02 {
+    border-radius: 50%;
+}
+
+.bg-footer {
+    background-color: yellowgreen;
+}
